@@ -4,6 +4,7 @@
  */
 package hola.mundo;
 
+<<<<<<< HEAD:src/hola/mundo/ErikGaEH.java
 import java.awt.Image;
 import java.io.FileInputStream;
 import javax.imageio.ImageIO;
@@ -11,6 +12,8 @@ import javax.swing.ImageIcon;
 import javax.swing.JFileChooser;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
+=======
+>>>>>>> a06a0ce3cd82b1697f59d94acdddf0d20d0c80cf:src/Ejercicio3_4/ErikGaEH.java
 /**
  *
  * @author gabri

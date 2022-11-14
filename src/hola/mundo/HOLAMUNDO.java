@@ -39,8 +39,12 @@ public class HOLAMUNDO {
         System.out.println("Bruno");
         System.out.println("Fernando");
         System.out.println("Karen");
+<<<<<<< HEAD
 
         System.out.println("Ximena");
 
+=======
+        System.out.println("David");
+>>>>>>> a06a0ce3cd82b1697f59d94acdddf0d20d0c80cf
 }
 }
